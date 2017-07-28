@@ -1,0 +1,5 @@
+django
+gunicorn==19.4.5
+mysqlclient
+python-memcached
+whitenoise==3.0
